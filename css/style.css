@@ -11,3 +11,17 @@
 h1{
   font-size: 80px;
 }
+
+.my_container{
+  width: 1200px;
+  margin:auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fizz_container{
+  width: calc(100% / 7 - 15px);
+  height: 150px;
+  background-color: red;
+  margin:15px;
+}
