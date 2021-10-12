@@ -20,7 +20,7 @@ h1{
 }
 
 .fizz_container{
-  width: calc(100% / 7 - 15px);
+  width: calc(100% / 7 - 30px);
   height: 150px;
   background-color: rgb(19, 137, 178);
   margin:15px;
