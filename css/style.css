@@ -22,6 +22,10 @@ h1{
 .fizz_container{
   width: calc(100% / 7 - 15px);
   height: 150px;
-  background-color: red;
+  background-color: rgb(19, 137, 178);
   margin:15px;
+  font-size: 20px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
 }
