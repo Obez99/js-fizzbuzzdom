@@ -1,0 +1,13 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+:root{
+  --bs-primary-rgb: 8,59,76;
+}
+
+h1{
+  font-size: 80px;
+}
